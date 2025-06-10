@@ -16,4 +16,4 @@ Players explore a grid of letters to form valid words and maximize their score t
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/WordMaze-Game.git
+   git clone https://github.com/Username/WordMaze-Game.git
